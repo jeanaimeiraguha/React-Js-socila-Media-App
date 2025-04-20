@@ -1,0 +1,12 @@
+.feed {
+     flex: 5;
+     padding: 20px;
+     background-color: #f0f2f5;
+   }
+   
+   .feedWrapper {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+   }
+   
