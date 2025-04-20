@@ -1,20 +1,16 @@
-import './App.css';
-import Topbar from './components/topbar/Topbar';
-import Sidebar from './components/sidebar/Sidebar';
-// import Feed from './components/feed/Feed';
-// import Rightbar from './components/rightbar/Rightbar';
-
+import {Person} from '@mui/icons-material'
+import './App.css'
+// import Home from './pages/home/home'
+import Topbar from './components/topbar/Topbar'
 function App() {
+  
   return (
-    <>
-      <Topbar />
-      <div className="homeContainer">
-        <Sidebar />
-        <Feed />
-        <Rightbar />
-      </div>
+    < >
+   
+     
+      <Topbar/> 
     </>
-  );
+  )
 }
 
-export default App;
+export default App
