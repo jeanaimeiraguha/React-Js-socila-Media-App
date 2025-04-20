@@ -1,8 +1,8 @@
 import './App.css';
 import Topbar from './components/topbar/Topbar';
 import Sidebar from './components/sidebar/Sidebar';
-import Feed from './components/feed/feed';
-import Rightbar from './components/rightbar/rightbar';
+// import Feed from './components/feed/Feed';
+// import Rightbar from './components/rightbar/Rightbar';
 
 function App() {
   return (
